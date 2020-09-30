@@ -1,0 +1,41 @@
+body{
+    width:180px;
+    height:height;
+}
+.header{
+    font-size:30px;
+    font-weight:bold;
+}
+.firstline, .secondline, .thirdline, .fourthline, .fifthline, .sixthline, .seventhline{
+    border:1px solid black;
+    margin:0;
+    border-top:none;
+}
+.firstline:hover{
+    background:red;
+    cursor: pointer;
+}
+.secondline:hover{
+    background:red;
+    cursor: pointer;
+}
+.thirdline:hover{
+    background:red;
+    cursor: pointer;
+}
+.fourthline:hover{
+    background:red;
+    cursor: pointer;
+}
+.fifthline:hover{
+    background:red;
+    cursor: pointer;
+}
+.sixthline:hover{
+    background:red;
+    cursor: pointer;
+}
+.seventhline:hover{
+    background:red;
+    cursor: pointer;
+}
